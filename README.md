@@ -7,4 +7,4 @@ Authors
 Ikotun Ruth Oluwatomisin
 
 
-Oluwasegun Benjamin
+Oluwasegun Olawale Benjamin

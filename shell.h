@@ -38,10 +38,10 @@ extern char **environ;
 
 
 /**
- * struct liststr - singly linked list
- * @num: the number field
- * @str: a string
- * @next: points to the next node
+ * struct liststr - singly linked list.
+ * @num: the number field.
+ * @str: a string.
+ * @next: points to the next node.
  */
 typedef struct liststr
 {
